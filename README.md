@@ -8,11 +8,13 @@ The Amazon Sales Analysis Dashboard is an interactive Power BI report designed t
 --> 2.Tech Stack
 
 The dashboard was built using the following tools and technologies:
+
 .Power BI Desktop – Core visualization and dashboard development.
 .Power Query – Data transformation, cleaning, and shaping for reporting.
 .DAX (Data Analysis Expressions) – Used for YTD and QTD calculations, custom KPIs, and advanced measures.
 .Data Modeling – Established relationships among tables for accurate aggregation and filtering.
 .MS Excel 2021 – Used for preparing, cleaning, and exporting raw data before Power BI integration.
+
 
 --> 3.Data Source
 
