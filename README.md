@@ -66,3 +66,4 @@ Decision Making: Weekly and monthly breakdowns enable better planning for campai
 
 --> 8.Sceenshots/Demo
  *Dashboard look like: 
+           https://github.com/JagruthiGadipalli/Amazon-sales-performance-dashboard/blob/main/snapshot%20of%20dashboard.png
